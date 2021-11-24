@@ -1,5 +1,4 @@
-# embed_cal
-# calculator
+# 설명
 odroid 보드, uart, clcd를 이용한 감가산기입니다.
 
 
